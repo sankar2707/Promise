@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Abel", sans-serif;
+    color: white;
+  }
+  body {
+    background: burlywood;
+  }
+  #title {
+    margin-top: 10px;  
+    margin-bottom: 20px;
+    align-items: center;
+  }
+  .card {
+  background-color: rgb(68, 66, 66);
+  color:white;
+  border-color: white;
+  }
+  .card-header {
+    background-color:black;
+    color:white;
+    margin-bottom: 20px;
+  }
+  #flag {
+    height: 150px;
+  }
+  .card-text p {
+    padding: 4px;
+    margin: 5px 0px -10px 0px;
+    color: white;
+  }
+  .button {
+    margin: 20px 0px 10px 0px;
+    border-color: white;
+    color:white;
+    background-color: black;
+  }
+  #clickResult p {
+    padding: 5px;
+    margin: -10px 0px -5px 0px;
+  }
+  #clickResult{
+    padding: 5px;
+    margin: -20px 0px -5px 0px;
+  }
